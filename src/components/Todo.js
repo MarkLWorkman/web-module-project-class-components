@@ -8,4 +8,4 @@ const Todo = (props) => {
     );
 }
 
-export deafault Todo;
+export default Todo;
